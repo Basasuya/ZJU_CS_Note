@@ -1,0 +1,1 @@
+* $\frac{d^{2}x}{dt^{2}}=v\frac{dv}{dx}$
